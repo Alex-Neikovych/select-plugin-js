@@ -11,5 +11,8 @@
     "parcel-hundler"
   ],
   "author": "Oleksii Neikovych <alexneykovich@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
 }
